@@ -1,0 +1,13 @@
+.env*
+.env*.json
+node_modules
+*~
+site/
+#extension.xpi
+extension_source.zip
+*.pem
+#*.crx
+maxurl.zip
+*.pub
+*.sig
+build/tsout.js
