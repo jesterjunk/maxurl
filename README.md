@@ -1,3 +1,9 @@
+### THIS REPOSITORY IS A COPY<br>of the original repository as it was at this date and time: &nbsp;&nbsp; 2024-12-05T18:22:16.000Z &nbsp;&nbsp; Dec 5, 2024, 6:22 PM UTC
+
+The original repository can be browsed at this specific time with [**this url**](https://github.com/qsniyg/maxurl/tree/e158a2cfded11f85e71b86b4bbb33e8ee329b4c1).
+
+
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/qsniyg/maxurl/master/resources/imu_opera_banner_transparent.png" alt="Image Max URL" title="Image Max URL" />
 </p>
